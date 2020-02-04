@@ -14,15 +14,12 @@ If I knew the departure time instead of just the time it takes to get there, I'd
 ###What the application looks like
 
 **App landing page**
-
-
-
-
-
-**Input values**
-
+![img1](/assets/img1.PNG)
 
 
 
 
 **Departure time + Directions returned** 
+![img2](/assets/img2.PNG)
+
+
